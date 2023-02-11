@@ -1,2 +1,6 @@
 #игронирование файлов idea
 .idea
+#игнор VS
+.vscode
+#игнор DS
+.DS_Store
