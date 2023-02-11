@@ -4,3 +4,6 @@
 .vscode
 #игнор DS
 .DS_Store
+#ignore db
+/db/*.sqlite3
+
