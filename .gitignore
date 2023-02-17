@@ -1,8 +1,8 @@
 #игронирование файлов idea
-.idea
+.idea/
 #игнор VS
-.vscode
+*.vscode
 #игнор DS
-.DS_Store
+*.DS_Store
 #ignore db
-.sqlite3
+*.sqlite3
